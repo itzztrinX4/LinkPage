@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: lightskyblue;
+    font-size: 40;
+    font-family: Comic Sans MS;
+}
+.button {
+    background-color: whitesmoke;
+    border: none;
+    color: black;
+    padding: 30px;
+    font-family: Comic Sans MS;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+  }
+.button1 {border-radius: 12px;}
+.button1 {width: 600px;}
